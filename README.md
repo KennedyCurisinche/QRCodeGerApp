@@ -1,0 +1,2 @@
+# QRCodeGerApp
+Generar QR
